@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-mf"
+  site-url: "https://kadeerkhan.github.io/nbdev-mf"
+  description: "first trynbdev-mf"
+  repo-branch: main
+  repo-url: "https://github.com/kadeerkhan/nbdev-mf"
